@@ -756,3 +756,39 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+
+
+  ![n1](https://github.com/user-attachments/assets/ec79c7f7-8a40-4e0d-8e2d-2080133640b6)
+
+![n2](https://github.com/user-attachments/assets/2d286165-98a3-4f26-bda6-d5bf1209bf36)
+
+
+![n3](https://github.com/user-attachments/assets/48ad78f5-dfa6-4227-ade8-522a3b73a1b5)
+
+![n4](https://github.com/user-attachments/assets/31b8bc16-da63-40a1-a624-6e2c08df1723)
+
+
+![n5](https://github.com/user-attachments/assets/37c3f283-81f4-4014-86f5-9af60871d05c)
+
+
+![n6](https://github.com/user-attachments/assets/02f9d6c9-7854-49bd-bc49-db604c5d1e8d)
+
+
+![n7](https://github.com/user-attachments/assets/07d88176-4ada-4666-9e03-b186b71929ce)
+
+![n8](https://github.com/user-attachments/assets/dcf875f8-b4cc-4963-aab2-606380647c40)
+
+![n9](https://github.com/user-attachments/assets/cb44fc1e-0211-4973-836a-9e39858a7d0a)
+
+
+![n10](https://github.com/user-attachments/assets/49fbfb10-9d33-4442-a53f-4873b74b858b)
+
+
+![n11](https://github.com/user-attachments/assets/eebf854a-4cef-4b8d-83ea-6e8c5f1a4242)
+
+![n12](https://github.com/user-attachments/assets/80a740e0-00c2-4627-be86-e85c8cd0ab7a)
+
+
+![n13](https://github.com/user-attachments/assets/7a49ab92-424a-4dd6-be7d-f488ca599efe)
+
+![n14](https://github.com/user-attachments/assets/222db2ee-40cb-4a65-9012-3a691e6c3226)
